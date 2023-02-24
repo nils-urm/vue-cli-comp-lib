@@ -34,7 +34,7 @@ export default class MyButton extends Vue {
 }
 </script>
 
-<style scoped lang="scss">
+<style lang="scss">
 .my-button {
   background: black;
   color: white;

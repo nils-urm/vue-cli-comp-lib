@@ -1688,7 +1688,7 @@ if (typeof window !== 'undefined') {
 ;// CONCATENATED MODULE: external {"commonjs":"vue","commonjs2":"vue","root":"Vue"}
 var external_commonjs_vue_commonjs2_vue_root_Vue_namespaceObject = require("vue");
 var external_commonjs_vue_commonjs2_vue_root_Vue_default = /*#__PURE__*/__webpack_require__.n(external_commonjs_vue_commonjs2_vue_root_Vue_namespaceObject);
-;// CONCATENATED MODULE: ./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[4]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/MyButton/MyButton.vue?vue&type=template&id=99a9e702&scoped=true&
+;// CONCATENATED MODULE: ./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[4]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/MyButton/MyButton.vue?vue&type=template&id=02f84077&
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c,
@@ -2300,10 +2300,10 @@ MyButton = __decorate([vue_class_component_esm], MyButton);
 /* harmony default export */ var MyButtonvue_type_script_lang_ts_ = (MyButton);
 ;// CONCATENATED MODULE: ./src/components/MyButton/MyButton.vue?vue&type=script&lang=ts&
  /* harmony default export */ var MyButton_MyButtonvue_type_script_lang_ts_ = (MyButtonvue_type_script_lang_ts_); 
-;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-22.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-22.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-22.use[2]!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-22.use[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/MyButton/MyButton.vue?vue&type=style&index=0&id=99a9e702&prod&scoped=true&lang=scss&
+;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-22.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-22.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-22.use[2]!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-22.use[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/MyButton/MyButton.vue?vue&type=style&index=0&id=02f84077&prod&lang=scss&
 // extracted by mini-css-extract-plugin
 
-;// CONCATENATED MODULE: ./src/components/MyButton/MyButton.vue?vue&type=style&index=0&id=99a9e702&prod&scoped=true&lang=scss&
+;// CONCATENATED MODULE: ./src/components/MyButton/MyButton.vue?vue&type=style&index=0&id=02f84077&prod&lang=scss&
 
 ;// CONCATENATED MODULE: ./node_modules/@vue/vue-loader-v15/lib/runtime/componentNormalizer.js
 /* globals __VUE_SSR_CONTEXT__ */
@@ -2418,7 +2418,7 @@ var component = normalizeComponent(
   staticRenderFns,
   false,
   null,
-  "99a9e702",
+  null,
   null
   
 )
