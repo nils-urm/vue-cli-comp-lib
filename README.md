@@ -1,4 +1,5 @@
 # vue-cli-comp-lib
+Creates a Vue-Lib Example
 
 ## Project setup
 ```
@@ -10,7 +11,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies lib for production
 ```
 npm run build
 ```
